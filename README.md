@@ -1,1 +1,3 @@
-# Jogo_Da_Velha
+# Jogo Da Velha
+
+Um projeto python utilizando o framework _*Tkinter*_
